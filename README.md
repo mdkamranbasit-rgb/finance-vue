@@ -8,11 +8,11 @@ This project was created as part of a Frontend Developer Internship assignment a
 
 ## 🚀 Live Demo
 
-👉 [Add your deployed link here]
+👉 https://finance-vue-eight.vercel.app/
 
 ## 📂 Repository
 
-👉 [Add your GitHub repo link here]
+👉 https://github.com/mdkamranbasit-rgb/finance-vue
 
 ---
 
