@@ -81,7 +81,7 @@ export const Topbar: React.FC<TopbarProps> = ({ onMenuClick, title }) => {
         {/* Profile */}
         <div className="flex items-center gap-3 pl-2 lg:pl-6 border-l border-slate-200 dark:border-slate-800 flex-shrink-0">
           <div className="hidden sm:block text-right min-w-0">
-            <p className="text-sm font-semibold text-slate-900 dark:text-white truncate max-w-[100px]">John Doe</p>
+            <p className="text-sm font-semibold text-slate-900 dark:text-white truncate max-w-[100px]">Md Kamran Basit</p>
             <p className="text-xs text-slate-500 capitalize">{role}</p>
           </div>
           <div className="w-8 h-8 sm:w-10 sm:h-10 bg-indigo-100 dark:bg-indigo-900/50 rounded-xl flex items-center justify-center text-indigo-600 dark:text-indigo-400 flex-shrink-0">
