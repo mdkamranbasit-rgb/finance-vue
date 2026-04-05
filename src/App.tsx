@@ -156,6 +156,7 @@ const DashboardContent: React.FC = () => {
                         <p className="text-sm text-slate-500">Choose your preferred currency</p>
                       </div>
                       <select className="bg-white dark:bg-slate-700 border border-slate-200 dark:border-slate-600 rounded-xl px-4 py-2 text-sm font-bold dark:text-white">
+                        <option>INR (₹)</option>
                         <option>USD ($)</option>
                         <option>EUR (€)</option>
                         <option>GBP (£)</option>
