@@ -1,0 +1,5 @@
+{
+  "name": "FinVue Dashboard",
+  "description": "A modern, clean, and responsive finance dashboard for tracking income, expenses, and financial trends with role-based access control.",
+  "requestFramePermissions": []
+}
